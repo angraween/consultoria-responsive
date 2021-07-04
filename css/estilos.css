@@ -1,0 +1,13 @@
+body{
+    background: #ececec;
+    font-size: 88%;
+    font-family: 'Arial', sans-serif;
+    color: #666666;
+    line-height: 1.7em;
+    text-align: left;
+}
+
+#contenedor{
+    width: 80%;
+    
+}
